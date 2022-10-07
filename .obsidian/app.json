@@ -1,0 +1,8 @@
+{
+  "promptDelete": false,
+  "autoPairBrackets": true,
+  "showFrontmatter": false,
+  "strictLineBreaks": false,
+  "readableLineLength": false,
+  "defaultViewMode": "preview"
+}

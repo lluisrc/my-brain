@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "75579759462605a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e04282ede158508",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Linux/Servicios/Nginx/Nginx ssl.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35758da0fce97568",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e04e841d8a09cb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c78f4d9031b58f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "66d3513f750da3fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 481,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c34b36860b586dec",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a425a1305c68085",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "622ec398c159e973",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux/Servicios/Nginx/Nginx ssl.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7e04282ede158508",
+  "lastOpenFiles": [
+    "Linux/Servicios/Nginx/Setup nginx en CentOS.md",
+    "Linux/Servicios/Nginx/Configurar nginx como proxy reverso.md",
+    "Linux/Servicios/Nginx/Nginx ssl.md",
+    "Linux/Servicios/Nginx/Error proxy reverso.md",
+    "Linux/Servicios/MongoDB/Setup mongodb en CentOS.md",
+    "SQLITE/Primeros pasos.md",
+    "Linux/Servicios/InfluxDB + telegraf/Setup telegraf en Ubuntu.md",
+    "Linux/Servicios/InfluxDB + telegraf/Setup influxdb 1.8 en Ubuntu.md",
+    "Linux/Servicios/InfluxDB + telegraf/Estructura archivo telegraf.conf.md",
+    "Linux/Servicios/Tomcat/Setup tomcat en CentOS - 2.md"
+  ]
+}
