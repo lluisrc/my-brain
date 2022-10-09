@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7e04282ede158508",
+        "id": "296328e96edbdfd5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Linux/Servicios/Nginx/Nginx ssl.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -53,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 481,
-    "collapsed": true
+    "width": 244
   },
   "right": {
     "id": "c34b36860b586dec",
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Servicios/Nginx/Nginx ssl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7e04282ede158508",
+  "active": "296328e96edbdfd5",
   "lastOpenFiles": [
-    "Linux/Servicios/Nginx/Setup nginx en CentOS.md",
-    "Linux/Servicios/Nginx/Configurar nginx como proxy reverso.md",
-    "Linux/Servicios/Nginx/Nginx ssl.md",
-    "Linux/Servicios/Nginx/Error proxy reverso.md",
-    "Linux/Servicios/MongoDB/Setup mongodb en CentOS.md",
+    "Linux/Comandos.md",
+    "Linux/desmonolito/Trap.md",
+    "Linux/Tools/Vim.md",
+    "Linux/desmonolito/Formatear salida con echo.md",
+    "Linux/desmonolito/Getops.md",
+    "Linux/Licencias.md",
+    "Linux/Tools/Logical Volume Management (LVM).md",
     "SQLITE/Primeros pasos.md",
-    "Linux/Servicios/InfluxDB + telegraf/Setup telegraf en Ubuntu.md",
-    "Linux/Servicios/InfluxDB + telegraf/Setup influxdb 1.8 en Ubuntu.md",
-    "Linux/Servicios/InfluxDB + telegraf/Estructura archivo telegraf.conf.md",
-    "Linux/Servicios/Tomcat/Setup tomcat en CentOS - 2.md"
+    "Linux/desmonolito/Crear servicio systemd (vacío).md",
+    "Linux/Shell (bash)/Chuletario Bash, hay que romper el monolito.md"
   ]
 }

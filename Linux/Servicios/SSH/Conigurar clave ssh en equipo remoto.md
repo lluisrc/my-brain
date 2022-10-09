@@ -35,6 +35,4 @@ Copiamos y la pegamos la clave publica generada y la pegamos en la ruta `~/.ssh/
 
 
 
-aqui
-
-jfgas
+si no exsiten estos directorios hay que crearlos con unos permisos espaciales, si no tiene los permisos no funcionará
