@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fc248707bd77f9ea",
+            "id": "c335059dcb897f71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Servicios/Elasticsearch/Elasticsearch nodes.md",
-                "mode": "source",
+                "file": "Servicios/Git Cheat Sheet.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 431
+    "width": 431,
+    "collapsed": true
   },
   "right": {
     "id": "c34b36860b586dec",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Servicios/Elasticsearch/Elasticsearch nodes.md",
+                "file": "Servicios/Git Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,42 +113,46 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fc248707bd77f9ea",
+  "active": "c335059dcb897f71",
   "lastOpenFiles": [
-    "Linux/Servicios/Elasticsearch/Kibana nodes.md",
-    "Linux/Servicios/Elasticsearch/Elasticsearch nodes.md",
-    "VMware/Crear una VM ubuntu.md",
-    "Linux/Servicios/Elasticsearch/Elasticsearch nodes",
-    "Linux/Servicios/Elasticsearch",
-    "VMware/Crear una VM redhat.md",
-    "VMware/Contraseñas vm.md",
-    "Linux/Red Hat subscription-manager/Red Hat subscription-manager.md",
-    "Linux/Servicios/OpenVPN/openvpn-as/Quickstart.md",
-    "Moviemapp.tv/Borrar tablas moviemapp mysql.md",
-    "Sabias que/product_uuid.md",
-    "Moviemapp.tv/Setup moviemapp.tv server config.md",
-    "Moviemapp.tv/Backend Deploy Workflow.md",
-    "Linux/Servicios/Servidor RTMP/Configurar servidor RTMP.md",
-    "Moviemapp.tv/Frontend Deploy Workflow.md",
-    "Sabias que",
-    "Linux/Red Hat insight/Red Hat insight.md",
-    "Linux/Red Hat insight",
-    "Linux/Red Hat subscription-manager",
-    "Linux/Docs ChatGPT/Arranque linux.md",
-    "Linux/Docs ChatGPT/systemd.md",
-    "Linux/Docs ChatGPT/cgroup.md",
-    "Linux/Docs ChatGPT/Gestión de la memoria en Linux.md",
-    "Linux/Docs ChatGPT",
-    "Telegram Bot/Telegram Bot.md",
+    "ChuletarioSQL/ChuletarioSQL.md",
+    "Servicios/Git Cheat Sheet.md",
+    "ChuletarioSQL/CRUD operation.md",
+    "ChuletarioSQL/Table.md",
+    "ChuletarioSQL/Starting mysql in ubuntu 22.04.md",
+    "ChuletarioSQL/Database.md",
+    "Sabias que/Untitled.md",
+    "ChuletarioSQL",
+    "Nueva carpeta",
+    "ChuletarioSQL.md",
+    "Curiosidades/product_uuid.md",
+    "Servicios/Crear servicio systemd (vacío).md",
+    "Servicios/Tools/Nmap/Nmap cheat shet.md",
+    "Servicios/Tools/Nmap/Reconocimiento de puertos.md",
+    "ChuletarioLinux/OpenSSL.md",
+    "ChuletarioLinux/Zmap cheat shet.md",
+    "Servicios/Tools/Awk.md",
+    "Servicios/Tools/Curl.md",
+    "Servicios/Tools/Du.md",
+    "Servicios/Tools/Vim.md",
+    "Servicios/Servicios/NetworkManager.md",
+    "Tools",
+    "Servicios/MongoDB/Setup mongodb en CentOS.md",
+    "Servicios/MongoDB/Comandos basicos y CRUD mongosh.md",
+    "Servicios/MongoDB",
+    "Servicios/InfluxDB + telegraf/Setup telegraf en Ubuntu.md",
+    "Servicios/InfluxDB + telegraf/Setup influxdb 1.8 en Ubuntu.md",
+    "Servicios/InfluxDB + telegraf/Estructura archivo telegraf.conf.md",
+    "Servicios/InfluxDB + telegraf",
+    "Servicios/Firewalld/Firewalld.md",
+    "Servicios/Firewalld",
+    "Servicios/Elasticsearch/Kibana nodes.md",
+    "Servicios/Elasticsearch",
+    "Servicios/Apache",
+    "Servicios/Ansible",
+    "Servicios/vsftpd",
     "Pasted image 20230211121714.png",
-    "Pasted image 20230211115757.png",
-    "Moviemapp.tv/Preparar entorno de producción para react vite (frontend).md",
-    "Telegram Bot",
-    "Linux/Servicios/Nginx/Nginx ssl.md",
-    "Linux/Servicios/Nginx/Configurar nginx como proxy reverso.md",
-    "Linux/Servicios/MongoDB/Setup mongodb en CentOS.md",
-    "Linux/Servicios/MongoDB/Comandos basicos y CRUD mongosh.md",
-    "Linux/Servicios/Prometheus/prometheus.md",
-    "Linux/Administración Linux/Procedimientos/Configurar IP estática en Ubuntu.md"
+    "Pasted image 20230211120019.png",
+    "Pasted image 20230211115757.png"
   ]
 }
