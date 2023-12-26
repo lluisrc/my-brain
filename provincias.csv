@@ -1,0 +1,53 @@
+provincias_id,provincias_name,provincias_comunidades_autonomas_id
+4,Almería,1
+11,Cádiz,1
+14,Córdoba,1
+18,Granada,1
+21,Huelva,1
+23,Jaén,1
+29,Málaga,1
+41,Sevilla,1
+22,Huesca,2
+44,Teruel,2
+50,Zaragoza,2
+33,Asturias,3
+7,Islas Baleares,4
+35,Las Palmas,5
+38,Santa Cruz de Tenerife,5
+39,Cantabria,6
+5,Ávila,7
+9,Burgos,7
+24,León,7
+34,Palencia,7
+37,Salamanca,7
+40,Segovia,7
+42,Soria,7
+47,Valladolid,7
+49,Zamora,7
+2,Albacete,8
+13,Ciudad Real,8
+16,Cuenca,8
+19,Guadalajara,8
+45,Toledo,8
+8,Barcelona,9
+17,Gerona,9
+25,Lleida,9
+43,Tarragona,9
+3,Alicante,10
+12,Castellón,10
+46,Valencia,10
+6,Badajoz,11
+10,Cáceres,11
+15,La Coruña,12
+27,Lugo,12
+32,Orense,12
+36,Pontevedra,12
+28,Madrid,13
+30,Murcia,14
+31,Navarra,15
+1,Álava,16
+20,Guipúzcoa,16
+48,Vizcaya,16
+26,La Rioja,17
+51,Ceuta,18
+52,Melilla,19
