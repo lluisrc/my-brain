@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b7db76ddcb2d7876",
+        "id": "85ecc989ef8d33fa",
         "type": "tabs",
         "children": [
           {
-            "id": "c335059dcb897f71",
+            "id": "1a740751eed76b29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servicios/Git Cheat Sheet.md",
-                "mode": "preview",
+                "file": "ChuletarioLinux/Vim.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ps1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 431,
-    "collapsed": true
+    "width": 711.5
   },
   "right": {
     "id": "c34b36860b586dec",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servicios/Git Cheat Sheet.md",
+                "file": "ChuletarioLinux/Vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,44 +112,45 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c335059dcb897f71",
+  "active": "1a740751eed76b29",
   "lastOpenFiles": [
-    "ChuletarioSQL/ChuletarioSQL.md",
+    "Hack4u.io/Introducción a Linux/2. Temario/2.14 Privilegios especiales - Capabilities.md",
+    "ChuletarioLinux/Vim.md",
+    "ChuletarioLinux/Comanditos y referencias útiles.md",
+    "Hack4u.io/Introducción a Linux/2. Temario/2.12 Control de atributos de ficheros en Linux - Chattr y Lsattr.md",
+    "Hack4u.io/Introducción a Linux/2. Temario/2.13 Permisos especiales - SUID y SGID.md",
+    "ChuletarioLinux/Find.md",
+    "ChuletarioLinux/Formatear la salida con echo.md",
+    "Hack4u.io/Introducción a Linux/2. Temario/2.3 Control del flujo stderr-stdout, operadores y procesos en segundo plano.pdf",
+    "Hack4u.io/Introducción a Linux/2. Temario/2.4 Descriptores de archivo.pdf",
+    "Hack4u.io/Introducción a Linux/2. Temario/2.11 Permisos especiales - Sticky Bit.md",
+    "Curiosidades/product_uuid.md",
+    "ChuletarioLinux/Uniq.md",
+    "ChuletarioLinux/Gestión de usuarios y grupos.md",
+    "Hack4u.io/Introducción a Linux/2. Temario/1.4 Descriptores de archivo.pdf",
+    "Hack4u.io/Introducción a Linux/1. Introducción/1.3 Control del flujo stderr-stdout, operadores y procesos en segundo plano.md",
+    "Hack4u.io/Introducción a Linux/1. Introducción/1.4 Descriptores de archivo.pdf.crdownload",
+    "Hack4u.io/Introducción a Linux/1. Introducción/1.3 Control del flujo stderr-stdout, operadores y procesos en segundo plano.pdf.crdownload",
+    "nmap_cheet_sheet_v7.pdf",
+    "Hack4u.io/Introducción a Linux/2. Temario/Nueva carpeta",
+    "Hack4u.io/Introducción a Linux/5. Despedida",
+    "Hack4u.io/Introducción a Linux/4. Examen final",
+    "Hack4u.io/Introducción a Linux/3. Scripting en Bash",
+    "Untitled.canvas",
+    "ChuletarioLinux/Jobs.md",
+    "ChuletarioLinux/OpenSSL.md",
     "Servicios/Git Cheat Sheet.md",
+    "ChuletarioSQL/ChuletarioSQL.md",
     "ChuletarioSQL/CRUD operation.md",
     "ChuletarioSQL/Table.md",
     "ChuletarioSQL/Starting mysql in ubuntu 22.04.md",
     "ChuletarioSQL/Database.md",
     "Sabias que/Untitled.md",
-    "ChuletarioSQL",
-    "Nueva carpeta",
     "ChuletarioSQL.md",
-    "Curiosidades/product_uuid.md",
     "Servicios/Crear servicio systemd (vacío).md",
     "Servicios/Tools/Nmap/Nmap cheat shet.md",
     "Servicios/Tools/Nmap/Reconocimiento de puertos.md",
-    "ChuletarioLinux/OpenSSL.md",
     "ChuletarioLinux/Zmap cheat shet.md",
-    "Servicios/Tools/Awk.md",
-    "Servicios/Tools/Curl.md",
-    "Servicios/Tools/Du.md",
-    "Servicios/Tools/Vim.md",
-    "Servicios/Servicios/NetworkManager.md",
-    "Tools",
-    "Servicios/MongoDB/Setup mongodb en CentOS.md",
-    "Servicios/MongoDB/Comandos basicos y CRUD mongosh.md",
-    "Servicios/MongoDB",
-    "Servicios/InfluxDB + telegraf/Setup telegraf en Ubuntu.md",
-    "Servicios/InfluxDB + telegraf/Setup influxdb 1.8 en Ubuntu.md",
-    "Servicios/InfluxDB + telegraf/Estructura archivo telegraf.conf.md",
-    "Servicios/InfluxDB + telegraf",
-    "Servicios/Firewalld/Firewalld.md",
-    "Servicios/Firewalld",
-    "Servicios/Elasticsearch/Kibana nodes.md",
-    "Servicios/Elasticsearch",
-    "Servicios/Apache",
-    "Servicios/Ansible",
-    "Servicios/vsftpd",
     "Pasted image 20230211121714.png",
     "Pasted image 20230211120019.png",
     "Pasted image 20230211115757.png"

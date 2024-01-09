@@ -38,3 +38,26 @@ Hace un historico de comandos para utilizar las fechas de arriba y abajo y cambi
 ```
 [user@serverlinux ~]$ rlwrap
 ```
+### product_uuid
+Este archivo muestra un identificador único que está asociado al hardware
+
+Cuando hacemos un import de una vm se genera un nuevo product_uuid. A pesar que el disco sea el mismo el resto de hardware (CPU, mem, motherboard...) no son el mismo (new vm)
+
+Para ver el product_uuid lanzamos el siguiente comando:
+```
+# cat /sys/class/dmi/id/product_uuid
+```
+
+### Silenciar el ruido del terminal al auto-completar
+```terminal
+vim /etc/inputrc
+```
+Descomentar el parámetro `set bell-style none`
+
+### !$
+Se refiere al último argumento del comando anterior
+
+```terminal
+mkdir hola
+cd !$
+```
